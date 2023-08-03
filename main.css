@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    padding: 0px 0px 0px 0px;
+    margin: auto;
+    width: 30%;
+    border: 1px solid black;
+
+    
+
+
+}
+h1 {
+    padding: 20px 0px 20px 0px;
+    margin: 0px 0px;
+    boarder: 0px 0px;
+}
+.first {
+    padding: 10px 0px 10px 0px;
+}
+.last {
+    padding: 10px 0px 10px 0px;
+}
+.email {
+    padding: 10px 0px 10px 0px;
+}
+input[type=submit] {
+    width: 80%;
+}
+.submit {
+    padding: 20px 0px 20px 0px;
+}
+ 
+
+    
